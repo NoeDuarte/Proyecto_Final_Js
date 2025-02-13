@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Perfume Floral",
+        "precio": 18000
+    },
+    {
+        "id": 2,
+        "nombre": "Colonia Citrus",
+        "precio": 15000
+    },
+    {
+        "id": 3,
+        "nombre": "Aromatizador Lavanda",
+        "precio": 12000
+    },
+    {
+        "id": 4,
+        "nombre": "Crema Hidratante",
+        "precio": 8000
+    },
+    {
+        "id": 5,
+        "nombre": "Set de Fragancias",
+        "precio": 23000
+    }
+]
